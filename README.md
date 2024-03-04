@@ -47,7 +47,7 @@ To run the project locally, follow these steps:
    npm start
 
 Live Demo 🌐
-[Check out the live demo of Metro Marvel Tour here.](https://metro-marvel-tour-7owzvgbx8-pavan-badgujars-projects.vercel.app/)
+[Check out the live demo of Metro Marvel Tour here.](https://metro-marvel-tour.vercel.app/)
 
 Feel free to explore and enjoy the virtual marvels! 🏙️✨
 
