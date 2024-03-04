@@ -30,9 +30,26 @@ To run the project locally, follow these steps:
 
    ```bash
    git clone https://github.com/PavanBadgujar1137/Metro-Marvel-Tour.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd Metro-Marvel-Tour
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+
+4. Start the development server:
+
+   ```bash
+   npm start
+
 Live Demo 🌐
-Check out the live demo of Metro Marvel Tour here.
+[Check out the live demo of Metro Marvel Tour here.](https://metro-marvel-tour-7owzvgbx8-pavan-badgujars-projects.vercel.app/)
 
 Feel free to explore and enjoy the virtual marvels! 🏙️✨
 
-This README includes additional symbols and enhances the visual appeal. Feel free to customize it further based on your preferences!
+
+   
